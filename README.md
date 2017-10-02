@@ -34,7 +34,7 @@ Indicate, for each pair of expressions (A, B) in the table below, whether A is O
 | ![log(n!)](http://latex.codecogs.com/gif.latex?log%28n%21%29) | ![log(n^n)](http://latex.codecogs.com/gif.latex?log%28n%5En%29) |
 
 4. Ext. 2-1
-Given two non-negative function f, g (i.e. f, g : **N** → **R***) such that f≠O(g), f≠θ (g), and f≠Ω(g).
+Show that there exists two non-negative functions f and g (i.e. f, g : **N** → **R***) such that f≠O(g), f≠θ (g), and f≠Ω(g).
     - 第五組
 
 5. Problem 3-3 Ordering by asymptotic growth rates
