@@ -1,11 +1,11 @@
 # Homework 2
 
-1. Problem 2.3-7:
+1. Problem 2.3-7:<br>
 Describe a ![Θ(nlogn)](http://latex.codecogs.com/gif.latex?%5CTheta%28nlogn%29)
  time algorithm that, given a set **S** of n integers and another integer x, determines whether or not there exist two elements in **S** whose sum is exactly x.
     - 第十二組
 
-2. Problem 2-1: Insertion sort on small arrays in merge sort
+2. Problem 2-1: Insertion sort on small arrays in merge sort<br>
 Although merge sort runs in ![Θ(nlogn)](http://latex.codecogs.com/gif.latex?%5CTheta%28nlogn%29)
  worst-cast time and insertion sort runs in ![Θ(n^2)](http://latex.codecogs.com/gif.latex?%5CTheta%28n%5E2%29)
  worst-cast time, the constant factors in insertion sort make it faster for small n. Thus, it makes sense to use insertion sort within merge sort when sub-problems become sufficiently small. Consider a modification to merge sort in which ![n/k](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bn%7D%7Bk%7D)
@@ -20,7 +20,7 @@ Although merge sort runs in ![Θ(nlogn)](http://latex.codecogs.com/gif.latex?%5C
     - How should k be chosen in practice? 
     - 第十一組
 
-3. Problem 3-2: Relative asymptotic growths
+3. Problem 3-2: Relative asymptotic growths<br>
 Indicate, for each pair of expressions (A, B) in the table below, whether A is O, o, Ω, ω, or Θ of B. Assume that k ≥ 1, ε > 0, and c > 1 are constants. Your answer should be in the form of the table with "yes" or "no" written in each box.
     - 第八組
 
@@ -33,7 +33,7 @@ Indicate, for each pair of expressions (A, B) in the table below, whether A is O
 | ![n^logc](http://latex.codecogs.com/gif.latex?n%5E%7Blogc%7D) | ![c^ln(n)](http://latex.codecogs.com/gif.latex?c%5E%7B%5Cln%7Bn%7D%7D) |
 | ![log(n!)](http://latex.codecogs.com/gif.latex?log%28n%21%29) | ![log(n^n)](http://latex.codecogs.com/gif.latex?log%28n%5En%29) |
 
-4. Ext. 2-1
+4. Ext. 2-1<br>
 Show that there exists two non-negative functions f and g (i.e. f, g : **N** → **R***) such that f≠O(g), f≠θ (g), and f≠Ω(g).
     - 第五組
 
