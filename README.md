@@ -15,7 +15,7 @@ Although merge sort runs in ![Θ(nlogn)](http://latex.codecogs.com/gif.latex?%5C
  worst-case time.
     - Show that the sub-lists can be merged in ![Θ(nlog(n/k))](http://latex.codecogs.com/gif.latex?%5CTheta%28nlog%5Cfrac%7Bn%7D%7Bk%7D%29)
  worst-case time.
-    - Given that the modified algorithm runs in ![Θ(nk-nlog(n/k))](http://latex.codecogs.com/gif.latex?%5CTheta%28nk-nlog%5Cfrac%7Bn%7D%7Bk%7D%29)
+    - Given that the modified algorithm runs in ![Θ(nk+nlog(n/k))](http://latex.codecogs.com/gif.latex?%5CTheta%28nk+nlog%5Cfrac%7Bn%7D%7Bk%7D%29)
  worst-case time, what is the largest asymptotic (Θ-notation) value of k as a function of n for which the modified algorithm has the same asymptotic running time as standard merge sort?
     - How should k be chosen in practice? 
     - 第十一組
